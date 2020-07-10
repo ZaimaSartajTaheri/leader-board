@@ -1,3 +1,92 @@
 body{
     font-family: 'Ubuntu', sans-serif;
+    background-color: #E5E5E5;;
 }
+.navigation{
+background-color: #562EFF;
+}
+.logo-text{
+    color:white;
+    font-size: 24px;
+    font-weight: 500;
+}
+.navbar-nav a{
+    color:white !important;
+    margin-right:15px;
+}
+.item-image{
+    margin-top:-15px;
+}
+.players-blogs,.courses{
+    width:90%;
+    margin-top:100px;
+    border-radius: 10px;
+    background-color: white;
+}
+.player,.blog{
+    margin-bottom:30px;
+}
+.players img{
+    width:56px;
+    height:56px;
+}
+.headline{
+    margin-bottom:40px;
+}
+h2{
+    color:#562EFF;
+}
+.players p{
+    margin-left:20px;
+    margin-top:15px;
+    font-size:20px;
+}
+.blogs img{
+    width:117px;
+    height:117px;
+}
+hr{
+    border: 1px solid #D1D1D1;
+}
+.blogs p{
+    margin-left:10px;
+    
+}
+.blogs .main{
+    font-weight: 500;
+    font-size: 17px;
+}
+.blogs .sub{
+    font-size:14px;
+    color: #9F9F9F;
+}
+.blogs .blue-text{
+    color: #562EFF;
+}
+.pink-text{
+    color: #ED6B4F;
+}
+.card-footer img{
+    width:10px;
+    height:10px;
+
+}
+.card-footer p{
+   font-size:10px; 
+}
+.time{
+    background-color:pink ;
+    color:#FF4A60;
+    border-radius: 25px;
+    width:60px;
+    height:18px;
+}
+.card-footer{
+    border-top:none;
+    background-color: white;
+}
+
+
+
+
+
